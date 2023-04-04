@@ -1,0 +1,10 @@
+.doubleContainer {
+    display: flex;
+    flex-direction: row;
+    justify-content: left;
+  }
+
+.sidebar {
+    background-color: brown;
+    min-height: 100vh;
+}

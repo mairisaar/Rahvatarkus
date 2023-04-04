@@ -1,0 +1,422 @@
+[
+  {
+    "id": 1,
+    "text": "Aasta ei tunne aastat.",
+    "author": "Eesti vanasõna",
+    "slug": "aasta-ei-tunne-aastat",
+    "likes": 0
+  },
+  {
+    "id": 2,
+    "text": "Aasta pärast kiida noorikut, nädala pärast hoost.",
+    "author": "Eesti vanasõna",
+    "slug": "aasta-parast-kiida-noorikut-nadala-parast-hoost",
+    "likes": 0
+  },
+  {
+    "id": 3,
+    "text": "Aasta teeb mehe vanaks, kaks lapse kavalaks.",
+    "author": "Eesti vanasõna",
+    "slug": "aasta-teeb-mehe-vanaks-kaks-lapse-kavalaks",
+    "likes": 0
+  },
+  {
+    "id": 4,
+    "text": "Aastad pole vennaksedu.",
+    "author": "Eesti vanasõna",
+    "slug": "aastad-pole-vennaksedu",
+    "likes": 0
+  },
+  {
+    "id": 5,
+    "text": "Abi aiast, vari võrgust.",
+    "author": "Eesti vanasõna",
+    "slug": "abi-aiast-vari-vorgust",
+    "likes": 0
+  },
+  {
+    "id": 6,
+    "text": "Aeg aitab konna mättäle ja kehva kannikale.",
+    "author": "Eesti vanasõna",
+    "slug": "aeg-aitab-konna-mattale-ja-kehva-kannikale",
+    "likes": 0
+  },
+  {
+    "id": 7,
+    "text": "Aeg annab arutust.",
+    "author": "Eesti vanasõna",
+    "slug": "aeg-annab-arutust",
+    "likes": 0
+  },
+  {
+    "id": 8,
+    "text": "Aeg annab head nõu.",
+    "author": "Eesti vanasõna",
+    "slug": "aeg-annab-head-nou",
+    "likes": 0
+  },
+  {
+    "id": 9,
+    "text": "Aeg jahutab tuska ja kustutab vihatuju.",
+    "author": "Eesti vanasõna",
+    "slug": "aeg-jahutab-tuska-ja-kustutab-vihatuju",
+    "likes": 0
+  },
+  {
+    "id": 10,
+    "text": "Aeg koolitab.",
+    "author": "Eesti vanasõna",
+    "slug": "aeg-koolitab",
+    "likes": 0
+  },
+  {
+    "id": 11,
+    "text": "Aeg kuivatab märja maa ja pillutab pisaraid.",
+    "author": "Eesti vanasõna",
+    "slug": "aeg-kuivatab-marja-maa-ja-pillutab-pisaraid",
+    "likes": 0
+  },
+  {
+    "id": 12,
+    "text": "Aeg küpsetab asju.",
+    "author": "Eesti vanasõna",
+    "slug": "aeg-kupsetab-asju",
+    "likes": 0
+  },
+  {
+    "id": 13,
+    "text": "Aeg lõpetab leinapäevad.",
+    "author": "Eesti vanasõna",
+    "slug": "aeg-lopetab-leinapaevad",
+    "likes": 0
+  },
+  {
+    "id": 14,
+    "text": "Aeg maksab raha.",
+    "author": "Eesti vanasõna",
+    "slug": "aeg-maksab-raha",
+    "likes": 0
+  },
+  {
+    "id": 15,
+    "text": "Aeg on õnne asutaja.",
+    "author": "Eesti vanasõna",
+    "slug": "aeg-on-onne-asutaja",
+    "likes": 0
+  },
+  {
+    "id": 16,
+    "text": "Aeg parandab haavad, aga jätab armid.",
+    "author": "Eesti vanasõna",
+    "slug": "aeg-parandab-haavad-aga-jatab-armid",
+    "likes": 0
+  },
+  {
+    "id": 17,
+    "text": "Aeg vanemaks, ega meiegi nooremaks.",
+    "author": "Eesti vanasõna",
+    "slug": "aeg-vanemaks-ega-meiegi-nooremaks",
+    "likes": 0
+  },
+  {
+    "id": 18,
+    "text": "Aeg võidab viimaks vaenu.",
+    "author": "Eesti vanasõna",
+    "slug": "aeg-voidab-viimaks-vaenu",
+    "likes": 0
+  },
+  {
+    "id": 19,
+    "text": "Aeg õpetab albi targemaks.",
+    "author": "Eesti vanasõna",
+    "slug": "aeg-opetab-albi-targemaks",
+    "likes": 0
+  },
+  {
+    "id": 20,
+    "text": "Aega ei saa rahaga osta.",
+    "author": "Eesti vanasõna",
+    "slug": "aega-ei-saa-rahaga-osta",
+    "likes": 0
+  },
+  {
+    "id": 21,
+    "text": "Aega kurel koolda, kuni soo sulab.",
+    "author": "Eesti vanasõna",
+    "slug": "aega-kurel-koolda-kuni-soo-sulab",
+    "likes": 0
+  },
+  {
+    "id": 22,
+    "text": "Aega läheb, asja saab.",
+    "author": "Eesti vanasõna",
+    "slug": "aega-laheb-asja-saab",
+    "likes": 0
+  },
+  {
+    "id": 23,
+    "text": "Aegamööda asi parem.",
+    "author": "Eesti vanasõna",
+    "slug": "aegamooda-asi-parem",
+    "likes": 0
+  },
+  {
+    "id": 24,
+    "text": "Aegamööda asjad käivad.",
+    "author": "Eesti vanasõna",
+    "slug": "aegamooda-asjad-kaivad",
+    "likes": 0
+  },
+  {
+    "id": 25,
+    "text": "Agan leiva jätk, humal õle jätk.",
+    "author": "Eesti vanasõna",
+    "slug": "agan-leiva-jatk-humal-ole-jatk",
+    "likes": 0
+  },
+  {
+    "id": 26,
+    "text": "Agan leivajätku, humal õllejatku.",
+    "author": "Eesti vanasõna",
+    "slug": "agan-leivajatku-humal-ollejatku",
+    "likes": 0
+  },
+  {
+    "id": 27,
+    "text": "Aganik on kevadine leivakast.",
+    "author": "Eesti vanasõna",
+    "slug": "aganik-on-kevadine-leivakast",
+    "likes": 0
+  },
+  {
+    "id": 28,
+    "text": "Aganik peab kehva aitama.",
+    "author": "Eesti vanasõna",
+    "slug": "aganik-peab-kehva-aitama",
+    "likes": 0
+  },
+  {
+    "id": 29,
+    "text": "Ahi ahne, pada nõid.",
+    "author": "Eesti vanasõna",
+    "slug": "ahi-ahne-pada-noid",
+    "likes": 0
+  },
+  {
+    "id": 30,
+    "text": "Ahi ei hakka su eest astuma, ise pead astuma.",
+    "author": "Eesti vanasõna",
+    "slug": "ahi-ei-hakka-su-eest-astuma-ise-pead-astuma",
+    "likes": 0
+  },
+  {
+    "id": 31,
+    "text": "Ahju peal ei saa kindraliks.",
+    "author": "Eesti vanasõna",
+    "slug": "ahju-peal-ei-saa-kindraliks",
+    "likes": 0
+  },
+  {
+    "id": 32,
+    "text": "Ahju taga laisa ase.",
+    "author": "Eesti vanasõna",
+    "slug": "ahju-taga-laisa-ase",
+    "likes": 0
+  },
+  {
+    "id": 33,
+    "text": "Ahjuroop naerab seni tuld, kuni ise on põlenud.",
+    "author": "Eesti vanasõna",
+    "slug": "ahjuroop-naerab-seni-tuld-kuni-ise-on-polenud",
+    "likes": 0
+  },
+  {
+    "id": 34,
+    "text": "Ahne kõht ei saa iialgi täis.",
+    "author": "Eesti vanasõna",
+    "slug": "ahne-koht-ei-saa-iialgi-tais",
+    "likes": 0
+  },
+  {
+    "id": 35,
+    "text": "Ahnus ajab auku.",
+    "author": "Eesti vanasõna",
+    "slug": "ahnus-ajab-auku",
+    "likes": 0
+  },
+  {
+    "id": 36,
+    "text": "Aituma eest hea küll.",
+    "author": "Eesti vanasõna",
+    "slug": "aituma-eest-hea-kull",
+    "likes": 0
+  },
+  {
+    "id": 37,
+    "text": "Aitumal andjale, kassi kandjale.",
+    "author": "Eesti vanasõna",
+    "slug": "aitumal-andjale-kassi-kandjale",
+    "likes": 0
+  },
+  {
+    "id": 38,
+    "text": "Aja muid, astu ise, käsi teisi, käi ise.",
+    "author": "Eesti vanasõna",
+    "slug": "aja-muid-astu-ise-kasi-teisi-kai-ise",
+    "likes": 0
+  },
+  {
+    "id": 39,
+    "text": "Aja tühi asjale, karga ise kannule.",
+    "author": "Eesti vanasõna",
+    "slug": "aja-tuhi-asjale-karga-ise-kannule",
+    "likes": 0
+  },
+  {
+    "id": 40,
+    "text": "Aja tühi kott püsti, katsu kas seisab.",
+    "author": "Eesti vanasõna",
+    "slug": "aja-tuhi-kott-pusti-katsu-kas-seisab",
+    "likes": 0
+  },
+  {
+    "id": 41,
+    "text": "Aja viidad, asja saad.",
+    "author": "Eesti vanasõna",
+    "slug": "aja-viidad-asja-saad",
+    "likes": 0
+  },
+  {
+    "id": 42,
+    "text": "Amet ei küsi leiba.",
+    "author": "Eesti vanasõna",
+    "slug": "amet-ei-kusi-leiba",
+    "likes": 0
+  },
+  {
+    "id": 43,
+    "text": "Amet ei teota meest, kui mees ametit ei teota.",
+    "author": "Eesti vanasõna",
+    "slug": "amet-ei-teota-meest-kui-mees-ametit-ei-teota",
+    "likes": 0
+  },
+  {
+    "id": 44,
+    "text": "Amet kõik, mis leiba annab.",
+    "author": "Eesti vanasõna",
+    "slug": "amet-koik-mis-leiba-annab",
+    "likes": 0
+  },
+  {
+    "id": 45,
+    "text": "Ametil kuldpõhi all.",
+    "author": "Eesti vanasõna",
+    "slug": "ametil-kuldpohi-all",
+    "likes": 0
+  },
+  {
+    "id": 46,
+    "text": "Ametit ei kanta seljas, vaid otsa ees.",
+    "author": "Eesti vanasõna",
+    "slug": "ametit-ei-kanta-seljas-vaid-otsa-ees",
+    "likes": 0
+  },
+  {
+    "id": 47,
+    "text": "Ametmees ajuti rikas, kaupmees korrati rikas, põllumees põline rikas.",
+    "author": "Eesti vanasõna",
+    "slug": "ametmees-ajuti-rikas-kaupmees-korrati-rikas-pollumees-poline-rikas",
+    "likes": 0
+  },
+  {
+    "id": 48,
+    "text": "Ametmees armas mees, kalamees kallis mees.",
+    "author": "Eesti vanasõna",
+    "slug": "ametmees-armas-mees-kalamees-kallis-mees",
+    "likes": 0
+  },
+  {
+    "id": 49,
+    "text": "Ametmees leiab leiba igal pool.",
+    "author": "Eesti vanasõna",
+    "slug": "ametmees-leiab-leiba-igal-pool",
+    "likes": 0
+  },
+  {
+    "id": 50,
+    "text": "Andja hea mees, tagasinõudja paha mees.",
+    "author": "Eesti vanasõna",
+    "slug": "andja-hea-mees-tagasinoudja-paha-mees",
+    "likes": 0
+  },
+  {
+    "id": 51,
+    "text": "Andja käsi ei alane.",
+    "author": "Eesti vanasõna",
+    "slug": "andja-kasi-ei-alane",
+    "likes": 0
+  },
+  {
+    "id": 52,
+    "text": "Andja väsib, saaja ei väsi.",
+    "author": "Eesti vanasõna",
+    "slug": "andja-vasib-saaja-ei-vasi",
+    "likes": 0
+  },
+  {
+    "id": 53,
+    "text": "Andjal lühikesed, võtjal pikad näpud.",
+    "author": "Eesti vanasõna",
+    "slug": "andjal-luhikesed-votjal-pikad-napud",
+    "likes": 0
+  },
+  {
+    "id": 54,
+    "text": "Anna aega, aeg annab head nõu!",
+    "author": "Eesti vanasõna",
+    "slug": "anna-aega-aeg-annab-head-nou",
+    "likes": 0
+  },
+  {
+    "id": 55,
+    "text": "Anna aega atra seada, küll siis kündi küllalt saab!",
+    "author": "Eesti vanasõna",
+    "slug": "anna-aega-atra-seada-kull-siis-kundi-kullalt-saab",
+    "likes": 0
+  },
+  {
+    "id": 56,
+    "text": "Anna antu, murra mujalt toodu!",
+    "author": "Eesti vanasõna",
+    "slug": "anna-antu-murra-mujalt-toodu",
+    "likes": 0
+  },
+  {
+    "id": 57,
+    "text": "Anna au ülemale ja alamale!",
+    "author": "Eesti vanasõna",
+    "slug": "anna-au-ulemale-ja-alamale",
+    "likes": 0
+  },
+  {
+    "id": 58,
+    "text": "Anna ihule, mida ihu igatseb!",
+    "author": "Eesti vanasõna",
+    "slug": "anna-ihule-mida-ihu-igatseb",
+    "likes": 0
+  },
+  {
+    "id": 59,
+    "text": "Anna mõis kätte, joob mõisagi nahka!",
+    "author": "Eesti vanasõna",
+    "slug": "anna-mois-katte-joob-moisagi-nahka",
+    "likes": 0
+  },
+  {
+    "id": 60,
+    "text": "Anna ohjad hullu kätte, hobu läheb hoopis hulluks.",
+    "author": "Eesti vanasõna",
+    "slug": "anna-ohjad-hullu-katte-hobu-laheb-hoopis-hulluks",
+    "likes": 0
+  } 
+]

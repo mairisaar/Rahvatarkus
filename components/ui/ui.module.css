@@ -1,0 +1,40 @@
+.nav {
+    display: flex;
+    flex-direction: row;
+    margin: auto 0;
+}
+
+.searchbox {
+    display: flex;
+    justify-content: center;
+    align-items: flex-end;
+    padding: 4% 1%; 
+    background-color: #F7F6F9;
+    outline: 4px dotted #272B2F;
+    border-radius: 2px;
+    outline-offset: 16px;
+    margin: 4% auto;
+}
+
+.searchfield {
+    width: 70%;
+    margin: auto 4%;
+}
+
+.searchbutton {
+    width: 40px;  /*MMiks ei tööta?*/
+    height: 40px;
+    border: 2px solid #272B2F;
+    color: #272B2F;
+    border-radius: 4px;
+    background-color: #DECCEA;
+}
+
+.searchbutton:hover {
+    background-color: #CBA6E2;
+}
+
+.searchbutton:active {
+    box-shadow: 8px 8px 0px #272B2F;
+}
+
